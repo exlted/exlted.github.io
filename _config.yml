@@ -1,9 +1,9 @@
 ### your site title here
 
 title: Ben King
-description: subtitle | affiliations | motto
+description: games | simulations | software
 
-baseurl: https://exlted.github.io/ #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: contact@exlted.com#
 
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "https://www.linkedin.com/in/ben-king-709487b0/"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+# twitter: "#"
+linkedin: "ben-king-709487b0"
+# stackoverflow: "#"
+github: "exlted"
+# researchgate: "#"
+# orcid: "#"
+# quora: "#"
+# instagram: "#"
+# facebook: "#"
 
 
 # Markdown
