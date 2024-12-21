@@ -3,7 +3,7 @@
 title: Ben King
 description: subtitle | affiliations | motto
 
-baseurl: exlted.github.io #name of GitHub repository
+baseurl: https://exlted.github.io/ #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: contact@exlted.com#
 
