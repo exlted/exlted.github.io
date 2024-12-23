@@ -48,12 +48,7 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+      - Samurai_Warriors.md
 
 sass:
   sass_dir: /assets/css/_sass
