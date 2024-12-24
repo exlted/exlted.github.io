@@ -1,7 +1,7 @@
 ---
 layout: post
-title: JustAnotherWebsocketServer
-description: Learning Rust Libraries & Websockets
+title: JAWS
+description: Just Another Websocket Server
 ---
 JustAnotherWebsocketServer (JAWS) is a tool I developed during the process of building StreamCore for "UI customization". The exciting thing that it does is that custom source files are able to be served to provide a "full" website beyond the bootstrapping that's done by default. 
 

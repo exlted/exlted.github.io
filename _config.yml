@@ -49,6 +49,14 @@ collections:
     permalink: /projects/:name/
     order:
       - Samurai_Warriors.md
+      - Samurai_Warriors_Derusted.md
+      - Samurai_Warriors_Godot_Edtirion.md
+      - GodotVoice.md
+      - StreamCore.md
+      - JustAnotherWebsocketServer.md
+      - twostep.md
+      - Game_Of_Life.md
+      - Graphics_2_Rendering_Engine.md
 
 sass:
   sass_dir: /assets/css/_sass
