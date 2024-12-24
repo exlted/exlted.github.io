@@ -13,7 +13,6 @@ Technologies Used
 =================
 
 * C#
-* 
 
 Credits
 =======
@@ -22,3 +21,5 @@ Credits
 * tomakita (Colorful.Console)
 * Ben King (Menus, Combat, Rendering, Movement/Collision)
 * Trevor Lory (World Generation, UI)
+
+[Source](https://github.com/exlted/Samurai-Warriors)
