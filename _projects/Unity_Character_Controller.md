@@ -17,6 +17,7 @@ Overall, there is definitely room to expand upon this idea, but for now these 4 
 
 Eventually, I plan on writing some Unity UI to automatically convert a defined control schema into a full-on "one click" basic set of controls. Obviously this will want additional configuration after the initial setup, but it will significantly speed up the initial time-to-use of this library.
 
+
 Technologies Used
 =================
 
