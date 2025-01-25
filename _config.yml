@@ -3,8 +3,8 @@
 title: Ben King
 description: games | simulations | software
 
-baseurl: "" #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/"
+url: "https://exlted.github.io"
 email: contact@exlted.com#
 
 # Pagination
