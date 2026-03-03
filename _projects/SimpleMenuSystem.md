@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: SimpleMenuSystem
 description: Minimalist Unity UI Toolkit Menu System

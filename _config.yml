@@ -48,16 +48,16 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
+      - SimpleMenuSystem.md
       - Samurai_Warriors.md
       - Samurai_Warriors_Derusted.md
-      - Samurai_Warriors_Godot_Edtirion.md
-      - GodotVoice.md
+      - Samurai_Warriors_Godot_Edtition.md
+      - Godot_Voice.md
       - StreamCore.md
       - JustAnotherWebsocketServer.md
       - twostep.md
       - Game_Of_Life.md
       - Graphics_2_Rendering_Engine.md
-      - simplemenusystems.md
 
 sass:
   sass_dir: /assets/css/_sass
