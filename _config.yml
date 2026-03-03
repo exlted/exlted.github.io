@@ -57,6 +57,7 @@ collections:
       - twostep.md
       - Game_Of_Life.md
       - Graphics_2_Rendering_Engine.md
+      - SimpleMenuSystem.md
 
 sass:
   sass_dir: /assets/css/_sass
