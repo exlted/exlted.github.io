@@ -31,7 +31,7 @@ We also use a Stack to keep track of the page we're on in the Menu so that you c
 
 This code also uses the UI Toolkit classnames to great effect. It Allows us to mark which item in a menu should get focus initially, as well as limiting the number of VisualElements we are querying through when displaying a new menu page. 
 
-This project is in progress, and as my other games require more features, more will be added to the SimpleMenuSystem. I know I'll be implementing a good way to handle Settings menus at some point, so look forward to that!
+This project is in progress, and as my other games require more features, more will be added to the SimpleMenuSystem. I know I'll be implementing a good way to handle Settings menus at some point, so look forward to that! 
 
 Technologies Used
 =================
