@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title: Samurai Warriors Godot Edition
-description: Remake of an Old Project to learn Godot
+title: SimpleMenuSystem
+description: Minimalist Unity UI Toolkit Menu System
 ---
 
 ![Gif of the SimpleMenuSystem's Example in Use](https://exlted.github.io/assets/images/SMS_MenuInUse.gif)
@@ -23,7 +23,7 @@ Enter the SimpleMenuSystem (great name, I know). A minimalist Menu tool that rel
 
 For simple menuing, which to me means being able to navigate groups of button or button-like objects which can have actions associated with interacting with said buttons, that is all I needed. 
 
-![Picture of the Button Definitions in the Example Scene provided with SimpleMenuSystem](https://exlted.github.io/assets/images/SMS_ExampleButtonDefinition.gif)
+![Picture of the Button Definitions in the Example Scene provided with SimpleMenuSystem](https://exlted.github.io/assets/images/SMS_ExampleButtonDefinition.png)
 
 By setting up a struct to associate a Name with a UnityEvent, we are able to easily dynamically add Callbacks to any item defined in a UI Toolkit menu at runtime with no additional code!
 
